@@ -1,0 +1,3 @@
+function,lon,lat,assert
+getMovicentri,0,1,CUNEO
+getMovicentri,2,2,CUNEO
